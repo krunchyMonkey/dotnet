@@ -1,0 +1,14 @@
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.csprojAssemblyReference.cache
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.csproj.CoreCompileInputs.cache
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.RazorAssemblyInfo.cache
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.RazorAssemblyInfo.cs
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.AssemblyInfoInputs.cache
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.AssemblyInfo.cs
+C:\personal-develop\km-dotnet-webapi-template\bin\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.deps.json
+C:\personal-develop\km-dotnet-webapi-template\bin\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.runtimeconfig.json
+C:\personal-develop\km-dotnet-webapi-template\bin\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.runtimeconfig.dev.json
+C:\personal-develop\km-dotnet-webapi-template\bin\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.dll
+C:\personal-develop\km-dotnet-webapi-template\bin\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.pdb
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.RazorTargetAssemblyInfo.cache
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.dll
+C:\personal-develop\km-dotnet-webapi-template\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.pdb

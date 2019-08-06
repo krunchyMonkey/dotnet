@@ -1,0 +1,9 @@
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\obj\Debug\netstandard2.0\ValuesManager.csprojAssemblyReference.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\obj\Debug\netstandard2.0\ValuesManager.csproj.CoreCompileInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\obj\Debug\netstandard2.0\ValuesManager.AssemblyInfoInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\obj\Debug\netstandard2.0\ValuesManager.AssemblyInfo.cs
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.deps.json
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Business\Business.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>KrunchyMonkey.DomainDrivenDesign.Sdk</AssemblyName>
+    <RootNamespace>KrunchyMonkey.DomainDrivenDesign.Sdk</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>KrunchyMonkey.DomainDrivenDesign.ValuesManager</AssemblyName>
+    <RootNamespace>KrunchyMonkey.DomainDrivenDesign.ValuesManager</RootNamespace>
+  </PropertyGroup>
+</Project>

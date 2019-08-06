@@ -1,0 +1,12 @@
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.deps.json
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.pdb
