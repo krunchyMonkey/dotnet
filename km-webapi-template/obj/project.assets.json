@@ -12107,11 +12107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\personal-develop\\km-dotnet-webapi-template\\KrunchyMonkeyTemplateWS.csproj",
+      "projectUniqueName": "C:\\personal-develop\\km-webapi-template\\KrunchyMonkeyTemplateWS.csproj",
       "projectName": "KrunchyMonkeyTemplateWS",
-      "projectPath": "C:\\personal-develop\\km-dotnet-webapi-template\\KrunchyMonkeyTemplateWS.csproj",
+      "projectPath": "C:\\personal-develop\\km-webapi-template\\KrunchyMonkeyTemplateWS.csproj",
       "packagesPath": "C:\\Users\\kristoffer.larue\\.nuget\\packages\\",
-      "outputPath": "C:\\personal-develop\\km-dotnet-webapi-template\\obj\\",
+      "outputPath": "C:\\personal-develop\\km-webapi-template\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
