@@ -1,0 +1,9 @@
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\obj\Debug\netstandard2.0\IoC.csproj.CoreCompileInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfoInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfo.cs
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.IoC.deps.json
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.IoC.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.IoC.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.IoC.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.IoC.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\IoC\obj\Debug\netstandard2.0\IoC.csprojAssemblyReference.cache

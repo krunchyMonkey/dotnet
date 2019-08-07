@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KrunchyMonkey.DomainDrivenDesign.ValuesManager</id>
+    <version>1.0.0</version>
+    <authors>KrunchyMonkey.DomainDrivenDesign.ValuesManager</authors>
+    <owners>KrunchyMonkey.DomainDrivenDesign.ValuesManager</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\ValuesManager\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.dll" target="lib\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.ValuesManager.dll" />
+  </files>
+</package>

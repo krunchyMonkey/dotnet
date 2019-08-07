@@ -219,6 +219,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\krunchy-monkey-local-nuget\\packages": {},
         "C:\\local Nuget\\non-pci": {},
         "C:\\local Nuget\\pci": {},
         "http://nuget.vivint.com/nuget": {},

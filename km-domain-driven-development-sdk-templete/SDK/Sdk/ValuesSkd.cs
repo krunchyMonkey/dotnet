@@ -2,7 +2,7 @@
 using KrunchyMonkey.DomainDrivenDesign.Sdk.Interfaces;
 using System;
 
-namespace KrunchyMonkey.DomainDrivenDesign.Skd
+namespace KrunchyMonkey.DomainDrivenDesign.Sdk
 {
     public class ValuesSkd : IValuesSdk
     {
