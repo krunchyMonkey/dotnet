@@ -1,0 +1,8 @@
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.deps.json
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\obj\Debug\netstandard2.0\Transient.csproj.CoreCompileInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\obj\Debug\netstandard2.0\Transient.AssemblyInfoInputs.cache
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\obj\Debug\netstandard2.0\Transient.AssemblyInfo.cs
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\TransientService\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.pdb

@@ -151,10 +151,16 @@
       },
       "KrunchyMonkey.DomainDrivenDesign.Business/1.0.0": {
         "dependencies": {
+          "KrunchyMonkey.DomainDrivenDesign.Business.Transient": "1.0.0",
           "KrunchyMonkey.DomainDrivenDesign.ValuesManager": "1.0.0"
         },
         "runtime": {
           "KrunchyMonkey.DomainDrivenDesign.Business.dll": {}
+        }
+      },
+      "KrunchyMonkey.DomainDrivenDesign.Business.Transient/1.0.0": {
+        "runtime": {
+          "KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll": {}
         }
       },
       "KrunchyMonkey.DomainDrivenDesign.ValuesManager/1.0.0": {
@@ -269,6 +275,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
     },
     "KrunchyMonkey.DomainDrivenDesign.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KrunchyMonkey.DomainDrivenDesign.Business.Transient/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\TransientService\Transient.csproj" />
     <ProjectReference Include="..\ValuesManager\ValuesManager.csproj" />
   </ItemGroup>
 

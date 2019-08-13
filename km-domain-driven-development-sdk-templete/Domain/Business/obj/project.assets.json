@@ -26,6 +26,16 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "KrunchyMonkey.DomainDrivenDesign.Business.Transient/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll": {}
+        }
+      },
       "KrunchyMonkey.DomainDrivenDesign.ValuesManager/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -182,6 +192,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "KrunchyMonkey.DomainDrivenDesign.Business.Transient/1.0.0": {
+      "type": "project",
+      "path": "../TransientService/Transient.csproj",
+      "msbuildProject": "../TransientService/Transient.csproj"
+    },
     "KrunchyMonkey.DomainDrivenDesign.ValuesManager/1.0.0": {
       "type": "project",
       "path": "../ValuesManager/ValuesManager.csproj",
@@ -190,6 +205,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "KrunchyMonkey.DomainDrivenDesign.Business.Transient >= 1.0.0",
       "KrunchyMonkey.DomainDrivenDesign.ValuesManager >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -229,6 +245,9 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+            "C:\\personal-develop\\km-domain-driven-development-sdk-templete\\Domain\\TransientService\\Transient.csproj": {
+              "projectPath": "C:\\personal-develop\\km-domain-driven-development-sdk-templete\\Domain\\TransientService\\Transient.csproj"
+            },
             "C:\\personal-develop\\km-domain-driven-development-sdk-templete\\Domain\\ValuesManager\\ValuesManager.csproj": {
               "projectPath": "C:\\personal-develop\\km-domain-driven-development-sdk-templete\\Domain\\ValuesManager\\ValuesManager.csproj"
             }

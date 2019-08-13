@@ -10,3 +10,5 @@ C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\ob
 C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.dll
 C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\obj\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.pdb
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll
+C:\personal-develop\km-domain-driven-development-sdk-templete\Domain\Business\bin\Debug\netstandard2.0\KrunchyMonkey.DomainDrivenDesign.Business.Transient.pdb

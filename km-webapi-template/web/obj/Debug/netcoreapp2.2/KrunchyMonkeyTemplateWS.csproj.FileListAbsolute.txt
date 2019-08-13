@@ -47,3 +47,5 @@ C:\personal-develop\km-webapi-template\web\bin\Debug\netcoreapp2.2\KrunchyMonkey
 C:\personal-develop\km-webapi-template\web\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.csproj.CopyComplete
 C:\personal-develop\km-webapi-template\web\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.dll
 C:\personal-develop\km-webapi-template\web\obj\Debug\netcoreapp2.2\KrunchyMonkeyTemplateWS.pdb
+C:\personal-develop\km-webapi-template\web\bin\Debug\netcoreapp2.2\KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll
+C:\personal-develop\km-webapi-template\web\bin\Debug\netcoreapp2.2\KrunchyMonkey.DomainDrivenDesign.Business.Transient.pdb

@@ -167,6 +167,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "KrunchyMonkey.DomainDrivenDesign.Business.Transient": "1.0.0",
           "KrunchyMonkey.DomainDrivenDesign.ValuesManager": "1.0.0"
         },
         "compile": {
@@ -174,6 +175,16 @@
         },
         "runtime": {
           "bin/placeholder/KrunchyMonkey.DomainDrivenDesign.Business.dll": {}
+        }
+      },
+      "KrunchyMonkey.DomainDrivenDesign.Business.Transient/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KrunchyMonkey.DomainDrivenDesign.Business.Transient.dll": {}
         }
       },
       "KrunchyMonkey.DomainDrivenDesign.ValuesManager/1.0.0": {
@@ -634,6 +645,11 @@
       "type": "project",
       "path": "../../Domain/Business/Business.csproj",
       "msbuildProject": "../../Domain/Business/Business.csproj"
+    },
+    "KrunchyMonkey.DomainDrivenDesign.Business.Transient/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/TransientService/Transient.csproj",
+      "msbuildProject": "../../Domain/TransientService/Transient.csproj"
     },
     "KrunchyMonkey.DomainDrivenDesign.ValuesManager/1.0.0": {
       "type": "project",
