@@ -1,0 +1,29 @@
+# Generated .NET build results
+**/bin/
+**/obj/
+**/TestResults/
+**/artifacts/
+
+# IDE caches, per-user settings and local state
+**/.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+*.userosscache
+*.slnx.user
+
+# Local secrets, keys and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
